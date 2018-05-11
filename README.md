@@ -1,2 +1,4 @@
 # IWORK
-this webApp is a simulation for LinkedIn, it's implemented using ASP.net and SQL, this is my first attempt in web development.
+this webApp is a simulation for LinkedIn.
+It's implemented using ASP.net and SQL.
+This is my first attempt in web development.
